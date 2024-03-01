@@ -1,6 +1,8 @@
 
-## 原github地址
-https://live.fanmingming.com
+## 原github地址 
+[https://live.fanmingming.com](https://github.com/fanmingming/live) 
+
+本人仅作为学习使用，请大家访问原地址
 
 <p align="center"><img alt="live.fanmingming.com" src="https://live.fanmingming.com/logo.png"></p>
 <h1 align="center"> ✯ 一个可直连访问的电视/广播图标库与相关工具项目 ✯ </h1>
